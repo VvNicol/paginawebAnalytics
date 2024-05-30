@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.bgPagina {
+	background-color: antiquewhite;
+
+}
+
+.icono {
+	border-radius: 100%;
+}
+
+.bgBorder {
+	border-color: palevioletred;
+}
+
+.titulo {
+	font-size: 5rem;
+	color: palevioletred;
+	font-family: 'Times New Roman', Times, serif;
+	align-items: center;
+}
+
+.navegador {
+	background-color: palevioletred;
+	margin: 0%;
+}
+
+.credit-card-div span {
+	padding-top: 10px;
+}
+
+.credit-card-div img {
+	padding-top: 30px;
+}
+
+.credit-card-div .small-font {
+	font-size: 9px;
+}
+
+.credit-card-div .pad-adjust {
+	padding-top: 10px;
+}
